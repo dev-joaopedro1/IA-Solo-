@@ -18,7 +18,5 @@ Desenvolver modelos capazes de analisar padrões nos dados de solo e crescimento
 - `Pandas` e `NumPy` para manipulação de dados
 - `Scikit-learn` e `Seaborn` para modelagem e visualização
 - `Matplotlib` e `Plotly` para gráficos
-- `Jupyter Notebook` para desenvolvimento exploratório
-
 
 
